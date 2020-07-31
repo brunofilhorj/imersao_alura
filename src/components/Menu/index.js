@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import Logo from '../../assets/images/bibiflix.png';
+import Logo from '../../assets/images/logo.png';
 import './menu.css';
 import Button from '../Button';
 // import ButtonLink from './components/ButtonLink';
